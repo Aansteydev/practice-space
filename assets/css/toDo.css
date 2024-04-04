@@ -1,3 +1,11 @@
-#headings {
-    color: #817fff;
+body {
+    background-color: black;
+    
 }
+
+#heading {
+    color: #817fff;
+    font-family: "Orbitron",sans-serif;
+    text-align: center;
+}
+
